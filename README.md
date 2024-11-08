@@ -28,7 +28,7 @@ Installation
 
     Clone the repository:
 
-git clone https://github.com/yourusername/libraryms.git
+git clone https://github.com/oshit0/libraryms
 
 Set up the MySQL database:
 

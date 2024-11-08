@@ -26,9 +26,7 @@ Before running the Library Management System, ensure you have the following inst
 
 Installation
 
-    Clone the repository:
-
-git clone https://github.com/oshit0/libraryms
+    Clone the repository: git clone https://github.com/oshit0/libraryms
 
 Set up the MySQL database:
 
@@ -52,7 +50,7 @@ Run the application:
         
 Acknowledgments
 
-    Thanks to TESDA for the opportunity to work on this project as part of the Institutional Assessment.
+    Thanks to TESDA for the opportunity to work on this project as part of the Institutional Assessment 1.
     Special thanks to the Java and MySQL documentation for the helpful resources.
 
 Notes:
